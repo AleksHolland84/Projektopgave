@@ -24,8 +24,9 @@ Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle 
 #### De fire spørgsmålstyper
 
 |Spørgsmål|Eksempel|
-|---------|--------|
++=========+========+
 |Videns- og faktaspørgsmål| *Hvad* er det arabiske forår?\ |
 |                         | *Hvem* deltog i Det arabiske foråt?\ |
 |                         | *Hvor* fandet Det arabiske forår sted? |
 |                         |*Hvornår* foregik Det arabiske forår?|
++=========================+======================================+
