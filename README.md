@@ -17,10 +17,16 @@ Kort sagt, fokuserer problemformuleringen din problemstilling på det du egentli
 
 En problemformulering består ofte at ét hovedspørgsmål til problemet, som skal besvares i opgaven. Dertil skal der også formuleres 2-5 unerspørgsmål, som leder direkte til et samlet svar på hovedspørgsmålet. Altså, hoved- og underspørgsmål skal hænge sammen. 
 
-![isbjerg](https://www.metteullersted.dk/wp/wp-content/uploads/2014/09/isbjerget_web1.jpg)
 
 ##### Eksempler på problemformuleringer
-      Hvordan bruges holger Danske-figuren i føste halvdel af 1800-tallets Danmark, hvordan udviklede nationalfølelsen sig i Danmark i 1800-tallets forste halvdel og hvordan kom den til udtryk?
+      Hvordan bruges holger Danske-figuren i føste halvdel af 1800-tallets Danmark?
+      Hvordan udviklede nationalfølelsen sig i Danmark i 1800-tallets forste halvdel 
+      og hvordan kom den til udtryk?
+      
+      
+![isbjerg](https://www.metteullersted.dk/wp/wp-content/uploads/2014/09/isbjerget_web1.jpg)
+
+
 
 # Gode spørgsmål
 
