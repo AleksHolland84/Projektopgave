@@ -24,45 +24,45 @@ Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle 
 #### De fire spørgsmålstyper
 
 
-|Spørgsmål|Eksempel|
+|**Spørgsmål**|**Eksempel**|
 |-------------------------|--------------------------------|
 |Videns- og faktaspørgsmål| *Hvad* er det arabiske forår? |
 |                         | *Hvem* deltog i Det arabiske foråt? |
 |                         | *Hvor* fandet Det arabiske forår sted? |
 |                         |*Hvornår* foregik Det arabiske forår?|
 |Forklarings- og forståelsesspørgsmål|*Hvorfor* startede Det arabiske forår? |
-||Hvorfor udviklede Det arabiske forår sig til en hel revolution?|
-||Hvorfor fik Det arabiske forår så stor betydning?|
-||Hvordan reagerede omverdenen på Det arabiske forår?|
-||Hvilken rolle spillede de sociale medier for Det arabiske forår?|
-|Holdnings- og vurderingsspørgsmål|Burde Det arabiske forår være blevet stoppet? |
-||Er det i orden, at mennesker i forskellige dele af verden lever under forskellige styreformer? |
-||Er der forskel på, hvordan menneskerettigheder forvaltes i forskellige dele af verden? |
-||Kunne der opstå tilsvarende situationer i Danmark, som man oplevede under Det arabiske forår? |
-|Handlingsspørgsmål|Hvad kan vi/jeg/man gøre for i fremtiden at sikre, at den type situationer ikke opstår?|
-||Hvad skal der til for at sikre, at mennesker i forskellige dele af verden oplever retfærdighed?|
-||Hvordan kan den vestlige verden være med til at støtte oprør imod diktatur?|
+||*Hvorfor* udviklede Det arabiske forår sig til en hel revolution?|
+||*Hvorfor* fik Det arabiske forår så stor betydning?|
+||*Hvordan* reagerede omverdenen på Det arabiske forår?|
+||*Hvilken* rolle spillede de sociale medier for Det arabiske forår?|
+|Holdnings- og vurderingsspørgsmål|*Burde* Det arabiske forår være blevet stoppet? |
+||*Er* det i orden, at mennesker i forskellige dele af verden lever under forskellige styreformer? |
+||*Er* der forskel på, hvordan menneskerettigheder forvaltes i forskellige dele af verden? |
+||*Kunne* der opstå tilsvarende situationer i Danmark, som man oplevede under Det arabiske forår? |
+|Handlingsspørgsmål|*Hvad* kan vi/jeg/man gøre for i fremtiden at sikre, at den type situationer ikke opstår?|
+||*Hvad* skal der til for at sikre, at mennesker i forskellige dele af verden oplever retfærdighed?|
+||*Hvordan* kan den vestlige verden være med til at støtte oprør imod diktatur?|
 
-|Spørgsmål|Eksempel|
+|**Spørgsmål**|**Eksempel**|
 |-------------------------|--------------------------------|
-|Videns- og faktaspørgsmål|Hvad er sociale medier?|
-||Hvem kan bruge sociale medier?|
-||Hvor bruger man sociale medier?|
-||Hvad bruger man sociale medier til?|
-||Hvornår opstod de sociale medier?|
-|Forklarings- og forståelsesspørgsmål|Hvorfor fandt man på at lave sociale medier?|
-||Hvorfor er de sociale medier så populære?|
-||Hvorfor er sociale medier ikke lovlige i Kina?|
-||Hvordan bruger bedsteforældregenerationen sociale medier?|
-||Hvilken rolle spiller de sociale medier for vores daglige liv?|
-||Hvilke sociale medier er mest udbredte?|
-||Er der forskel på, hvilke sociale medier man bruger, når man er hhv. ung eller gammel?|
-|Holdnings- og vurderingsspørgsmål|Hvilken rolle skal de sociale medier spiller i fremtiden? |
-||Bør politikerne begrænse brug af sociale medier i skolen?|
-||Risikerer vi, at de sociale medier ændrer på vores opfattelse af demokrati og ytringsfrihed?|
-||Skal de voksne blande sig i, hvor meget børn bruger sociale medier?|
-|Handlingsspørgsmål|Hvad kan vi/jeg/man gøre for at begrænse/øge brugen af sociale medier?|
-||Hvordan kan man sikre, at de sociale medier ikke tager magten over mennesket?|
-||Hvordan kan man påvirke hinanden til at bruge de sociale medier på en god måde?|
+|Videns- og faktaspørgsmål|*Hvad* er sociale medier?|
+||*Hvem* kan bruge sociale medier?|
+||*Hvor* bruger man sociale medier?|
+||*Hvad* bruger man sociale medier til?|
+||*Hvornår* opstod de sociale medier?|
+|Forklarings- og forståelsesspørgsmål|*Hvorfor* fandt man på at lave sociale medier?|
+||*Hvorfor* er de sociale medier så populære?|
+||*Hvorfor* er sociale medier ikke lovlige i Kina?|
+||*Hvordan* bruger bedsteforældregenerationen sociale medier?|
+||*Hvilken* rolle spiller de sociale medier for vores daglige liv?|
+||*Hvilke* sociale medier er mest udbredte?|
+||*Er* der forskel på, hvilke sociale medier man bruger, når man er hhv. ung eller gammel?|
+|Holdnings- og vurderingsspørgsmål|*Hvilken* rolle skal de sociale medier spiller i fremtiden? |
+||*Bør* politikerne begrænse brug af sociale medier i skolen?|
+||*Risikerer* vi, at de sociale medier ændrer på vores opfattelse af demokrati og ytringsfrihed?|
+||*Skal* de voksne blande sig i, hvor meget børn bruger sociale medier?|
+|Handlingsspørgsmål|*Hvad* kan vi/jeg/man gøre for at begrænse/øge brugen af sociale medier?|
+||*Hvordan* kan man sikre, at de sociale medier ikke tager magten over mennesket?|
+||*Hvordan* kan man påvirke hinanden til at bruge de sociale medier på en god måde?|
 
 
