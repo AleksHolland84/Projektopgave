@@ -5,8 +5,22 @@ A repository containing a guide on how to write a problem oriented report
 
 En projektopgave er ikke en emneopgave, men en opgave, hvor du undersøger og fordyber dig i et problem; Et problem som ikke har én løsning eller et "nemt" svar, som kun behøves besvares med fakta.
 
+Projektet kan udarbejdes på baggrund af en opgaverformulering. Opgaveformuleringen er udarbejdet på baggrund af en problemstilling og en såkaldt problemformulering
+
+problemstilling -->  problemformulering --> opgaveformulering
+
+#### Opgaveformuleringen tager udgangspunkt i en problemstilling
+"Problemet" skal du tænkes som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hængder det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar.
+
+#### Hvad er en problemformulering?
+Kort sagt, fokuserer problemformuleringen din problemstilling på det du egentlig vil undersøge. En problemstilling er ofte bred og rummer flere ting at undersøge - det skal problemformuleringen snævre ind. Den skal gøre din undersøgelse mere specefik, afgrænse- og fokuser dig. 
+
+En problemformulering består ofte at ét hovedspørgsmål til problemet, som skal besvares i opgaven. Dertil skal der også formuleres 2-5 unerspørgsmål, som leder direkte til et samlet svar på hovedspørgsmålet. Altså, hoved- og underspørgsmål skal hænge sammen. 
+
 ![isbjerg](https://www.metteullersted.dk/wp/wp-content/uploads/2014/09/isbjerget_web1.jpg)
 
+##### Eksempler på problemformuleringer
+      Hvordan bruges holger Danske-figuren i føste halvdel af 1800-tallets Danmark, hvordan udviklede nationalfølelsen sig i Danmark i 1800-tallets forste halvdel og hvordan kom den til udtryk?
 
 # Gode spørgsmål
 
@@ -66,3 +80,5 @@ Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle 
 ||*Hvordan* kan man påvirke hinanden til at bruge de sociale medier på en god måde?|
 
 
+# Hvad er en problemformulering?
+Problemformuleringer adskiller sig fra problemstillinger
