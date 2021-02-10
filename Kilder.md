@@ -18,7 +18,9 @@ Når du kun bruger en kilde til at redegøre for faktuel baggrundsviden, så vil
 ´´´
 Giddens bringer et citat fra historikeren Lawrence Stone, som viser hvor grel forskellen på bondesamfundet og det senmoderne samfund er:
 
-    Den individuelle valgfrihed skulle til enhver tid og i enhver forstand underlægges andres interesser – slægtens, forældrenes, naboernes, kirkens eller statens. Hvad selve livet angik, blev der ikke sat nogen høj pris på det, og døden indfandt sig let og ofte. Livsforventningerne var så lave, at det ikke var klogt at knytte sig for stærkt til et andet menneske. (Giddens, 1995, s. 115)
+    Den individuelle valgfrihed skulle til enhver tid og i enhver forstand underlægges andres interesser – slægtens, forældrenes, naboernes, kirkens eller statens. 
+    Hvad selve livet angik, blev der ikke sat nogen høj pris på det, og døden indfandt sig let og ofte. Livsforventningerne var så lave, at det ikke var klogt 
+    at knytte sig for stærkt til et andet menneske. (Giddens, 1995, s. 115)
 
 I det senmoderne samfund er alt det nævnte i citatet med modsat fortegn. De børn, som bliver født ind i det senmoderne samfund, får ikke en givet identitet, og de bliver ikke styret og underlagt andres meninger og holdninger (Giddens, 1995, s. 116-118).
 ´´´
