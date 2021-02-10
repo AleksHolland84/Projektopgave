@@ -5,7 +5,7 @@ A repository containing a guide on how to write a problem oriented report
 
 En projektopgave er ikke en emneopgave, men en opgave, hvor du undersøger og fordyber dig i et problem; Et problem som ikke har én løsning eller et "nemt" svar, som kun behøves besvares med fakta.
 
-Projektet kan udarbejdes på baggrund af en opgaverformulering. Opgaveformuleringen er udarbejdet på baggrund af en problemstilling og en såkaldt problemformulering
+Projektet kan udarbejdes på baggrund af en opgaverformulering. Opgaveformuleringen er udformet på baggrund af en problemstilling og en såkaldt problemformulering
 
 problemstilling -->  problemformulering --> opgaveformulering
 
@@ -88,3 +88,16 @@ Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle 
 
 # Hvad er en problemformulering?
 Problemformuleringer adskiller sig fra problemstillinger
+
+# Opgavens indhold
+
+Opgaven skal som minimum indholde:
+```
+- Forside
+- Abstract
+- Indholdsfortegnelse
+- Selve opgaven (indledning, hoveddel, konklusion) inkl. noter/henvisninger
+- Litteraturliste
+- Bilag
+```
+
