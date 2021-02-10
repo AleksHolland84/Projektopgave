@@ -12,19 +12,17 @@ Det kan trække voldsomt ned på dine opgaver, hvis dine kildehenvisninger og li
 
 
 ### Hvordan henviser du til kilde
-Når du kun bruger en kilde til at redegøre for faktuel baggrundsviden, så vil det ofte være tilstrækkeligt at henvise til hele kilden, f.eks. (Giddens, 1995). Men hvis du henviser til specifikke holdninger, vurderinger eller analyser i en kilde, så er det godt at få sidetallet med. 
+Når du kun bruger en kilde til at redegøre for faktuel baggrundsviden, så vil det ofte være tilstrækkeligt at henvise til hele kilden, f.eks. (Erickson, 2008). Men hvis du henviser til specifikke holdninger, vurderinger eller analyser i en kilde, så er det godt at få sidetallet med. 
 
 **Eksempel**
 
-*Giddens bringer et citat fra historikeren Lawrence Stone, som viser hvor grel forskellen på bondesamfundet og det senmoderne samfund er:*
+*Erickson beskriver de oprindelige hackere som artister, som fandt elegance i den konventionelle tøre matematik. Her beksriver han, hvordan de så programmering som en form for artistisk og kunstnerisk udtryk:*
 
-    "Den individuelle valgfrihed skulle til enhver tid og i enhver forstand underlægges andres 
-    interesser – slægtens, forældrenes, naboernes, kirkens eller statens. 
-    Hvad selve livet angik, blev der ikke sat nogen høj pris på det, og døden indfandt sig 
-    let og ofte. Livsforventningerne var så lave, at det ikke var klogt at knytte sig 
-    for stærkt til et andet menneske. (Giddens, 1995, s. 115)"
+    "The original hackers found splendor and elegance in the conventionally
+    dry sciences of math and electronics. They saw programming as a form of
+    artistic expression and the computer as an instrument of that art. (Erickson, 2008, s. 2)"
 
-*I det senmoderne samfund er alt det nævnte i citatet med modsat fortegn. De børn, som bliver født ind i det senmoderne samfund, får ikke en givet identitet, og de bliver ikke styret og underlagt andres meninger og holdninger (Giddens, 1995, s. 116-118).*
+*Dette er dog ikke et nyt fænomen. Pythagorane i det gamle Grækenland, havde en lignende etisk og subkulturel tilgang til matematik.*
 
 ##### Kildehenvisning i din opgave
 Der er flere måder at henvise til din kilde i opgaven på. Det er ikke afgørende, hvilken måde du benytter, men du skal bruge den samme metode igennem hele din opgave. 
