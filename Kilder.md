@@ -14,7 +14,7 @@ Det kan trække voldsomt ned på dine opgaver, hvis dine kildehenvisninger og li
 ### Hvordan henviser du til kilde
 Når du kun bruger en kilde til at redegøre for faktuel baggrundsviden, så vil det ofte være tilstrækkeligt at henvise til hele kilden, f.eks. (Giddens, 1995). Men hvis du henviser til specifikke holdninger, vurderinger eller analyser i en kilde, så er det godt at få sidetallet med. 
 
-**Eksempel fra et SRP med Samfundsfag og Dansk**
+**Eksempel**
 
 *Giddens bringer et citat fra historikeren Lawrence Stone, som viser hvor grel forskellen på bondesamfundet og det senmoderne samfund er:*
 
