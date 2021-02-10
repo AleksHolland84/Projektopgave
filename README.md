@@ -98,7 +98,7 @@ Opgaven skal som minimum indholde:
 - Forside
 - Abstract
 - Indholdsfortegnelse
-- Selve opgaven (indledning, hoveddel, konklusion) inkl. noter/henvisninger
+- Selve opgaven (indledning, hoveddel, konklusion) ![](https://github.com/AleksHolland84/Projektopgave/blob/main/Kilder.md)inkl. noter/henvisninger
 - Litteraturliste
 - Bilag
 ```
