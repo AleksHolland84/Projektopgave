@@ -94,12 +94,10 @@ Problemformuleringer adskiller sig fra problemstillinger
 # Opgavens indhold
 
 Opgaven skal som minimum indholde:
-```
 - Forside
 - Abstract
 - Indholdsfortegnelse
 - Selve opgaven (indledning, hoveddel, konklusion) [inkl. noter/henvisninger](https://github.com/AleksHolland84/Projektopgave/blob/main/Kilder.md)
 - Litteraturliste
 - Bilag
-```
 
