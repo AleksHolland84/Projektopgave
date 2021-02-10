@@ -32,3 +32,5 @@ Du kan bruge **paranteser** med henvisninger, som du sætter ind i din egen teks
 Eller du kan lave henvisninger i fodnoter - vist nederst på siden. Dog skal du i direkte citater henvise med kilden i parantes. 
 
 Udover måden du sætter kilden ind i opgaven, findes der også systemer til, hvordan du skriver kilden ind. Vi har besluttet, at vi vil bruge APA systemet, som ofte bliver brugt i humaniore og samfundsvidenskab. 
+
+[Se her hvordan du indsætter en kilde i MS Word](https://www.youtube.com/watch?v=wAwoikP41Rc&feature=youtu.be)
