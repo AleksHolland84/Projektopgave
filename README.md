@@ -30,3 +30,11 @@ Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle 
 |                         | *Hvem* deltog i Det arabiske foråt? |
 |                         | *Hvor* fandet Det arabiske forår sted? |
 |                         |*Hvornår* foregik Det arabiske forår?|
+|-------------------------|---------------------------------------|
+|Forklarings- og forståelsesspørgsmål|*Hvorfor* startede Det arabiske forår? |
+||Hvorfor udviklede Det arabiske forår sig til en hel revolution?|
+||Hvorfor fik Det arabiske forår så stor betydning?|
+||Hvordan reagerede omverdenen på Det arabiske forår?|
+||Hvilken rolle spillede de sociale medier for Det arabiske forår?|
+
+
