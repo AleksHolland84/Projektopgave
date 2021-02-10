@@ -26,3 +26,9 @@ Når du kun bruger en kilde til at redegøre for faktuel baggrundsviden, så vil
 
 *I det senmoderne samfund er alt det nævnte i citatet med modsat fortegn. De børn, som bliver født ind i det senmoderne samfund, får ikke en givet identitet, og de bliver ikke styret og underlagt andres meninger og holdninger (Giddens, 1995, s. 116-118).*
 
+##### Kildehenvisning i din opgave
+Der er flere måder at henvise til din kilde i opgaven på. Det er ikke afgørende, hvilken måde du benytter, men du skal bruge den samme metode igennem hele din opgave. 
+Du kan bruge **paranteser** med henvisninger, som du sætter ind i din egen tekst - som ses i eksemplet før. 
+Eller du kan lave henvisninger i fodnoter - vist nederst på siden. Dog skal du i direkte citater henvise med kilden i parantes. 
+
+Udover måden du sætter kilden ind i opgaven, findes der også systemer til, hvordan du skriver kilden ind. Vi har besluttet, at vi vil bruge APA systemet, som ofte bliver brugt i humaniore og samfundsvidenskab. 
