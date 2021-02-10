@@ -1,7 +1,7 @@
 # Projektopgave
 A repository containing a guide on how to write a problem oriented report
 
-[![RealPython](/images/a_muninn.png)](https://github.com/AleksHolland84/Projektopgave/blob/main/README.md)
+[![RealPython](https://github.com/AleksHolland84/Projektopgave/blob/main/images/a_muninn.png)](https://github.com/AleksHolland84/Projektopgave/blob/main/README.md)
 
 ## Hvad er en projektopgave?
 
