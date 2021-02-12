@@ -1,5 +1,6 @@
 # Table of Contents
-1. [Projekt](#projektopgave)
+1. [Projektopgave](#projektopgave)
+   1. [Hvad er en projektopgave](#Hvad er en projektopgave?)
 
 # Projektopgave
 A repository containing a guide on how to write a problem oriented report
