@@ -8,10 +8,9 @@
 4. [Kildehenvisning](#kildehenvisning)
     1. [Hvordan henviser du til kilder](#hvordan-henviser-du-til-kilder)
     2. [Kildehenvisning i din opgave](#kildehenvisning-i-din-opgave)
-5. [Eksempel på opsætning af forside, indholdsfortegnelse og indledning](#eksempel-på-opsætning-af-forside-indholdsfortegnelse-og-ondledning)
+5. [Eksempel på opsætning af forside, indholdsfortegnelse og indledning](#eksempel-på-opsætning-af-forside-indholdsfortegnelse-og-indledning)
 6. [Eksempel på opsætning med kilder i fodnote](#eksempel-på-opsætning-med-kilder-i-fodnote)
-7. [Eksempel på opsætning med kilder i fodnote](#eksempel-på-opsætning-med-kilder-i-fodnote)
-8. [Eksempel på opsætning af referenceliste/bibliografi](#eksempel-på-opsætning-af-referencelistebibliografi)
+7. [Eksempel på opsætning af referenceliste/bibliografi](#eksempel-på-opsætning-af-referencelistebibliografi)
 
     
     
