@@ -20,16 +20,32 @@ A repository containing a guide on how to write a problem oriented report
 
 [![RealPython](https://github.com/AleksHolland84/Projektopgave/blob/main/images/a_muninn.png)](https://github.com/AleksHolland84/Projektopgave/blob/main/README.md)
 
+
+I løbet af 7. klasse skal I gennemføre en projektopgave. 
+I projektopgaven skal I arbejde med at:
+
+    - undersøge og finde informationer om et fælles overemne.
+    - vælge et område, som I vil gå i dybden med og undersøge nærmere.
+    - stille gode spørgsmål til det, I undersøger.
+    - afgrænse en problemstilling, som danner grundlag for jeres undersøgelse.
+    - udvælge de informationer, som er væsentlige for jeres undersøgelse.
+    - svare og kommentere på de spørgsmål, I har stillet jer selv.
+    - forberede og udføre en fremlæggelse.
+
+Aleks og Katrine bedømmer projektopgaven med en skriftlig udtalelse.
+
+
 ## Hvad er en projektopgave?
+En projektopgave er ikke en emneopgave, men en opgave, hvor du undersøger og fordyber dig i et problem; Et problem som ikke har én løsning eller et "nemt" svar, som kun behøves besvares med fakta. I projektopgaven skal I arbejde på tværs af skolens fag og emner. Kort fortalt betyder det, at I bruger viden, arbejdsformer og metoder fra flere af skolens fag. 
 
-En projektopgave er ikke en emneopgave, men en opgave, hvor du undersøger og fordyber dig i et problem; Et problem som ikke har én løsning eller et "nemt" svar, som kun behøves besvares med fakta.
-
-Projektet kan udarbejdes på baggrund af en opgaverformulering. Opgaveformuleringen er udformet på baggrund af en problemstilling og en såkaldt problemformulering
+Projektet kan udarbejdes på baggrund af en *opgaverformulering*. Opgaveformuleringen er udformet på baggrund af en *problemstilling* og en såkaldt *problemformulering*
 
 problemstilling -->  problemformulering --> opgaveformulering
 
+
 #### Opgaveformuleringen tager udgangspunkt i en problemstilling
 "Problemet" skal du tænkes som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hængder det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar.
+
 
 #### Hvad er en problemformulering?
 Problemformuleringer adskiller sig fra problemstillinger. Kort sagt, fokuserer problemformuleringen din problemstilling på det du egentlig vil undersøge. En problemstilling er ofte bred og rummer flere ting at undersøge - det skal problemformuleringen snævre ind. Den skal gøre din undersøgelse mere specefik, afgrænse- og fokuser dig. 
