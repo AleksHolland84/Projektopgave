@@ -36,4 +36,4 @@ I bedømmelsen indgår en vurdering af:
 - 3 personer: 25 minutter
 
 Her kan du se gode råd omkring fremlæggelse og hvad du evt. kan overveje:
-[Bedømmelse af projektopgaven](http://www.emu.dk/modul/freml%C3%A6ggelse-af-projektopgaven)
+[Bedømmelse af projektopgaven](https://emu.dk/grundskole/dansk/projektopgaven/fremlaeggelse-og-bedoemmelse)
