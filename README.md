@@ -1,7 +1,7 @@
 # Table of Contents
 1. [Projektopgave](#projektopgave)
   
-2. [Gode spørgsmpk](#gode spørgsmål)
+2. [Gode spørgsmpk](#godespørgsmål)
 
 # Projektopgave
 A repository containing a guide on how to write a problem oriented report
