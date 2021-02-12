@@ -34,6 +34,14 @@ Udover måden du sætter kilden ind i opgaven, findes der også systemer til, hv
 [Se her hvordan du indsætter en kilde i MS Word](https://www.youtube.com/watch?v=wAwoikP41Rc&feature=youtu.be)
 
 
-## Eksempl på opsætning med kilder i fodnote
+## Eksempl på opsætning af forside, indholdsfortegnelse og indledning
 
 ![Eksempel 1.0](/images/Eksempel_1.0.png)
+
+## Eksempl på opsætning med kilder i fodnote
+
+![Eksempel 1.0](/images/Eksempel_1.1.png)
+
+## Eksempl på opsætning af referenceliste/bibliografi
+
+![Eksempel 1.0](/images/Eksempel_1.2.png)
