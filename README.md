@@ -6,6 +6,10 @@
     2. [De 4 spørgsmålstyper](#de-fire-spørgsmålstyper)
 3. [Opgavens indhold](#opgavens-indhold)
 4. [Kildehenvisning](#kildehenvisning)
+    1. [Hvordan henviser du til kilder](#hvordan-henviser-du-til-kilder)
+    2. [Kildehenvisning i din opgave](#kildehenvisning-i-din-opgave)
+
+    
     
 
 # Projektopgave
