@@ -1,7 +1,11 @@
 # Table of Contents
 1. [Projektopgave](#projektopgave)
     1. [Hvad er en projektopgave?](#hvad-er-en-projektopgave)
-2. [Gode spørgsmpl](gode-spørgsmål)
+2. [Gode spørgsmpl](#gode-spørgsmål)
+    1. [Spørgsmålstyper](#spørgsmålstyper)
+    2. [De 4 spørgsmålstyper](#de-fire-spørgsmålstyper)
+3. [Opgavens indhold](#opgavens-indhold))
+
     
 
 # Projektopgave
@@ -21,7 +25,7 @@ problemstilling -->  problemformulering --> opgaveformulering
 "Problemet" skal du tænkes som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hængder det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar.
 
 #### Hvad er en problemformulering?
-Kort sagt, fokuserer problemformuleringen din problemstilling på det du egentlig vil undersøge. En problemstilling er ofte bred og rummer flere ting at undersøge - det skal problemformuleringen snævre ind. Den skal gøre din undersøgelse mere specefik, afgrænse- og fokuser dig. 
+Problemformuleringer adskiller sig fra problemstillinger. Kort sagt, fokuserer problemformuleringen din problemstilling på det du egentlig vil undersøge. En problemstilling er ofte bred og rummer flere ting at undersøge - det skal problemformuleringen snævre ind. Den skal gøre din undersøgelse mere specefik, afgrænse- og fokuser dig. 
 
 En problemformulering består ofte at ét hovedspørgsmål til problemet, som skal besvares i opgaven. Dertil skal der også formuleres 2-5 unerspørgsmål, som leder direkte til et samlet svar på hovedspørgsmålet. Altså, hoved- og underspørgsmål skal hænge sammen. 
 
@@ -49,7 +53,7 @@ Dertil kommer også *holdnings- og vurderingsspørgsmål* som giver mulighed for
 Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle løsningsforslag, tydeliggøre den adfærd der leder frem til problemet osv.
 
 
-#### De fire spørgsmålstyper
+### De fire spørgsmålstyper
 
 
 |**Spørgsmål**|**Eksempel**|
@@ -94,14 +98,11 @@ Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle 
 ||*Hvordan* kan man påvirke hinanden til at bruge de sociale medier på en god måde?|
 
 
-# Hvad er en problemformulering?
-Problemformuleringer adskiller sig fra problemstillinger
-
 # Opgavens indhold
 
 Opgaven skal som minimum indholde:
 - Forside
-- Abstract
+- Abstract (Vi skal lige overveje om det er nødvendigt)
 - Indholdsfortegnelse
 - Selve opgaven (indledning, hoveddel, konklusion) [inkl. noter/henvisninger](https://github.com/AleksHolland84/Projektopgave/blob/main/Kilder.md)
 - Litteraturliste
