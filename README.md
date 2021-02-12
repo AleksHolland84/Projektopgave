@@ -1,3 +1,6 @@
+# Table of Contents
+1. [Projekt](#projektopgave)
+
 # Projektopgave
 A repository containing a guide on how to write a problem oriented report
 
