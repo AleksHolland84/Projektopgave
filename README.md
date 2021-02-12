@@ -1,7 +1,7 @@
 # Table of Contents
 1. [Projektopgave](#projektopgave)
-  1. [Hvad er en projektopgave?](#hvad-er-en-projektopgave)
-    1.[Opgaveformuleringen tager udgangspunkt i en problemstilling](#opgaveformuleringen-tager-udgangspunkt-i-en-problemstilling)
+    1. [Hvad er en projektopgave?](#hvad-er-en-projektopgave)
+        1.[Opgaveformuleringen tager udgangspunkt i en problemstilling](#opgaveformuleringen-tager-udgangspunkt-i-en-problemstilling)
 
 # Projektopgave
 A repository containing a guide on how to write a problem oriented report
