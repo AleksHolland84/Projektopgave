@@ -24,7 +24,7 @@ Når du kun bruger en kilde til at redegøre for faktuel baggrundsviden, så vil
 
 *Dette er dog ikke et nyt fænomen. Pythagorane i det gamle Grækenland, havde en lignende etisk og subkulturel tilgang til matematik.*
 
-##### Kildehenvisning i din opgave
+### Kildehenvisning i din opgave
 Der er flere måder at henvise til din kilde i opgaven på. Det er ikke afgørende, hvilken måde du benytter, men du skal bruge den samme metode igennem hele din opgave. 
 Du kan bruge **paranteser** med henvisninger, som du sætter ind i din egen tekst - som ses i eksemplet før. 
 Eller du kan lave henvisninger i fodnoter - vist nederst på siden. Dog skal du i direkte citater henvise med kilden i parantes. 
@@ -32,3 +32,8 @@ Eller du kan lave henvisninger i fodnoter - vist nederst på siden. Dog skal du 
 Udover måden du sætter kilden ind i opgaven, findes der også systemer til, hvordan du skriver kilden ind. Vi har besluttet, at vi vil bruge APA systemet, som ofte bliver brugt i humaniore og samfundsvidenskab. 
 
 [Se her hvordan du indsætter en kilde i MS Word](https://www.youtube.com/watch?v=wAwoikP41Rc&feature=youtu.be)
+
+
+## Eksempl på opsætning med kilder i fodnote
+
+![Eksempel 1.0](/images/Eksempel_1.0.jpg)
