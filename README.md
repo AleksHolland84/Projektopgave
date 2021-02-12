@@ -10,7 +10,7 @@
     2. [Kildehenvisning i din opgave](#kildehenvisning-i-din-opgave)
 5. [Eksempel på opsætning af forside, indholdsfortegnelse og indledning](#eksempel-på-opsætning-af-forside-indholdsfortegnelse-og-ondledning)
 6. [Eksempel på opsætning med kilder i fodnote](#eksempel-på-opsætning-med-kilder-i-fodnote)
-7. [Eksempel på opsætning med kilder i fodnote](#eksempel-på-opsætning-med-kilder-i-fodnote
+7. [Eksempel på opsætning med kilder i fodnote](#eksempel-på-opsætning-med-kilder-i-fodnote)
 8. [Eksempel på opsætning af referenceliste/bibliografi](#eksempel-på-opsætning-af-referencelistebibliografi)
 
     
