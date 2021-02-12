@@ -1,6 +1,7 @@
 # Table of Contents
 1. [Projektopgave](#projektopgave)
     1. [Hvad er en projektopgave?](#hvad-er-en-projektopgave)
+2. [Gode spørgsmpl](gode-spørgsmål)
     
 
 # Projektopgave
