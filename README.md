@@ -1,6 +1,7 @@
 # Table of Contents
 1. [Projektopgave](#projektopgave)
-   1. [Hvad er en projektopgave?](#hvad_er_)
+   1.1 [Hvad er en projektopgave?](#hva)
+2. [Gode](#gode spørgsmål]
 
 # Projektopgave
 A repository containing a guide on how to write a problem oriented report
