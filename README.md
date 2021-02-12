@@ -1,7 +1,7 @@
 # Table of Contents
 1. [Projektopgave](#projektopgave)
     1. [Hvad er en projektopgave?](#hvad-er-en-projektopgave)
-2. [Gode spørgsmpl](#gode-spørgsmål)
+2. [Gode spørgsmål](#gode-spørgsmål)
     1. [Spørgsmålstyper](#spørgsmålstyper)
     2. [De 4 spørgsmålstyper](#de-fire-spørgsmålstyper)
 3. [Opgavens indhold](#opgavens-indhold))
