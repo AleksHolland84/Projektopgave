@@ -1,7 +1,7 @@
 # Table of Contents
 1. [Projektopgave](#projektopgave)
   
-2. [Gode spørgsmpk](#godespørgsmål)
+2. [Gode spørgsmpk](#gode)
 
 # Projektopgave
 A repository containing a guide on how to write a problem oriented report
@@ -35,7 +35,7 @@ En problemformulering består ofte at ét hovedspørgsmål til problemet, som sk
 
 
 
-# Gode spørgsmål
+# [Gode spørgsmål](gode)
 
 En god projektopgave bygger på gode spørgsmål. De gode spørgsmål leder dig på vej, og hjælper dig med at afgrænse problemet, men giver også mulighed for fordybelse og undren.
 
