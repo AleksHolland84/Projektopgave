@@ -36,4 +36,4 @@ Udover måden du sætter kilden ind i opgaven, findes der også systemer til, hv
 
 ## Eksempl på opsætning med kilder i fodnote
 
-![Eksempel 1.0](/images/Eksempel_1.0.jpg)
+![Eksempel 1.0](/images/Eksempel_1.0.png)
