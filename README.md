@@ -8,9 +8,10 @@
 4. [Kildehenvisning](#kildehenvisning)
     1. [Hvordan henviser du til kilder](#hvordan-henviser-du-til-kilder)
     2. [Kildehenvisning i din opgave](#kildehenvisning-i-din-opgave)
-5. [Eksempel på opsætning af forside, indholdsfortegnelse og indledning](#eksempel-på-opsætning-af-forside-indholdsfortegnelse-og-indledning)
-6. [Eksempel på opsætning med kilder i fodnote](#eksempel-på-opsætning-med-kilder-i-fodnote)
-7. [Eksempel på opsætning af referenceliste/bibliografi](#eksempel-på-opsætning-af-referencelistebibliografi)
+5. [Layout eksempler](#layout-eksempler)
+    1. [Eksempel på opsætning af forside, indholdsfortegnelse og indledning](#eksempel-på-opsætning-af-forside-indholdsfortegnelse-og-indledning)
+    2. [Eksempel på opsætning med kilder i fodnote](#eksempel-på-opsætning-med-kilder-i-fodnote)
+    3. [Eksempel på opsætning af referenceliste/bibliografi](#eksempel-på-opsætning-af-referencelistebibliografi)
 
     
     
@@ -166,6 +167,8 @@ Udover måden du sætter kilden ind i opgaven, findes der også systemer til, hv
 
 [![Se her hvordan du indsætter en kilde i MS Word](/images/guide_1.0.png)](https://www.youtube.com/watch?v=wAwoikP41Rc&feature=youtu.be)
 
+
+# Layout eksempler
 
 ## Eksempel på opsætning af forside, indholdsfortegnelse og indledning
 
