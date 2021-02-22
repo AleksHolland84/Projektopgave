@@ -23,7 +23,7 @@
 * Planlægge produkt. Krav til produkt; elektronisk, noget der kan vises/bruges online, som er relevant for jeres emne/problemformulering
 
 
-
+# 
 
 ## 1. del
 -    Gennemgå introduktion
