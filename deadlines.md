@@ -18,3 +18,7 @@
 
 
 ##### Fredag uge 8 
+* Igangsat arbejde med projekt. Herunder lave aftaler med eventuelle "kilder/data"
+* Planlægge produkt. Krav til produkt; elektronisk, noget der kan vises/bruges online, som er relevant for jeres emne/problemformulering
+
+
