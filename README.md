@@ -25,8 +25,8 @@ A repository containing a guide on how to write a problem oriented report
 I løbet af 7. klasse skal I gennemføre en projektopgave. 
 I projektopgaven skal I arbejde med at:
 
-    - undersøge og finde informationer om et fælles overemne.
-    - vælge et område, som I vil gå i dybden med og undersøge nærmere.
+    - undersøge og finde informationer om overemne.
+    - vælge et område (underemne), som I vil gå i dybden med og undersøge nærmere.
     - stille gode spørgsmål til det, I undersøger.
     - afgrænse en problemstilling, som danner grundlag for jeres undersøgelse.
     - udvælge de informationer, som er væsentlige for jeres undersøgelse.
