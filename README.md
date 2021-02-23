@@ -133,6 +133,7 @@ Opgaven skal som minimum indholde:
 - Bilag
 
 # Kildehenvisning
+[Kildeliste på Gyldendal](https://cms-pm1.gyldendal.dk/en/Dansk/Indgange/forloeb/kursus_soegning/redskaber/lav_en_kildeliste.aspx)
 
 Hver gang I skriver et direkte citerer eller en paragraf med inspiration andet sted fra, skal I leve en hildehenvisning - uanset om det fra en bog, en avis, et magasin, en hjemmeside eller andet medie.
 Altså - Hver gang I skriver noget ud fra noget andet, skal der være en kildehenvisning- også selvom I henviser til noget I selv har skrevet. 
