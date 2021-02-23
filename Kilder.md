@@ -1,5 +1,7 @@
 # Kildehenvisning
 
+[Kildeliste på Gyldendal](https://cms-pm1.gyldendal.dk/en/Dansk/Indgange/forloeb/kursus_soegning/redskaber/lav_en_kildeliste.aspx)
+
 Hver gang I skriver et direkte citerer eller en paragraf med inspiration andet sted fra, skal I leve en hildehenvisning - uanset om det fra en bog, en avis, et magasin, en hjemmeside eller andet medie.
 Altså - Hver gang I skriver noget ud fra noget andet, skal der være en kildehenvisning- også selvom I henviser til noget I selv har skrevet. 
 
@@ -31,7 +33,8 @@ Eller du kan lave henvisninger i fodnoter - vist nederst på siden. Dog skal du 
 
 Udover måden du sætter kilden ind i opgaven, findes der også systemer til, hvordan du skriver kilden ind. Vi har besluttet, at vi vil bruge APA systemet, som ofte bliver brugt i humaniore og samfundsvidenskab. 
 
-[Se her hvordan du indsætter en kilde i MS Word](https://www.youtube.com/watch?v=wAwoikP41Rc&feature=youtu.be)
+*Her kan du se, hvordan du indsætter en kilde i Microsoft Word*
+[![Se her hvordan du indsætter en kilde i MS Word](/images/guide_1.0.png)](https://www.youtube.com/watch?v=wAwoikP41Rc&feature=youtu.be)
 
 
 ## Eksempel på opsætning af forside, indholdsfortegnelse og indledning
