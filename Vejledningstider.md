@@ -15,7 +15,7 @@ Tænk over:
 | Tider  | Elev / elevgruppe |
 |--------|-------------------|
 |  08:30 |  Natasha, Maja og Emma                 |
-|  08:45 |                   |
+|  08:45 |           Christian og Silas        |
 |  09:00 |       William, Nikolaj og Tobias            |
 |  09:15 | Naja, Ida Marie, Astrid               |
 |  09:30 |       Cecilie            |
