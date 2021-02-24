@@ -16,7 +16,7 @@ Tænk over:
 |--------|-------------------|
 |  08:30 |  Natasha, Maja og Emma                 |
 |  08:45 |                   |
-|  09:00 |                   |
+|  09:00 |       William, Nikolaj og Tobias            |
 |  09:15 | Naja, Ida Marie, Astrid               |
 |  09:30 |       Cecilie            |
 |  09:45 |                   |
@@ -26,7 +26,7 @@ Tænk over:
 | Tider  | Elev / elevgruppe |
 |--------|-------------------|
 |  10:30 |   Joakim og Rawan               |
-|  10:45 |                   |
+|  10:45 |    Simon og Hugo               |
 |  11:00 |   Salma og Sofie                |
 |  11:15 |                   |
 |  11:30 |                   |
