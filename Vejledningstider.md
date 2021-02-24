@@ -28,13 +28,14 @@ Tænk over:
 |  10:30 |   Joakim og Rawan               |
 |  10:45 |    Simon og Hugo               |
 |  11:00 |   Salma og Sofie                |
-|  11:15 |                   |
+|  11:15 |      Sigurd og Saad             |
 |  11:30 |                   |
 |  11:45 |                   |
 
 
 ### Mandag d. 1.03.21
 Ved denne vejledning skal I have overvejet jeres produkt. Her skulle I gerne bruge vejledningen til, at få styr på jeres produkt
+
 #### Katrine
 
 | Tider  | Elev / elevgruppe |
