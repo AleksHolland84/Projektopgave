@@ -17,8 +17,8 @@ Tænk over:
 |  08:30 |                   |
 |  08:45 |                   |
 |  09:00 |                   |
-|  09:15 |                   |
-|  09:30 |                   |
+|  09:15 | Naja, Ida Marie, Astrid               |
+|  09:30 |       Cecilie            |
 |  09:45 |                   |
 
 #### Aleks
@@ -34,6 +34,7 @@ Tænk over:
 
 
 ### Mandag d. 1.03.21
+Ved denne vejledning skal I have overvejet jeres produkt. Her skulle I gerne bruge vejledningen til, at få styr på jeres produkt
 #### Katrine
 
 | Tider  | Elev / elevgruppe |
