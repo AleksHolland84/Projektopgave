@@ -29,7 +29,7 @@ Tænk over:
 |  10:45 |    Simon og Hugo               |
 |  11:00 |   Salma og Sofie                |
 |  11:15 |      Sigurd og Saad             |
-|  11:30 |                   |
+|  11:30 |       Mads            |
 |  11:45 |                   |
 
 
