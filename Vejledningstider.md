@@ -14,7 +14,7 @@ Tænk over:
 
 | Tider  | Elev / elevgruppe |
 |--------|-------------------|
-|  08:30 |                   |
+|  08:30 |  Natasha, Maja og Emma                 |
 |  08:45 |                   |
 |  09:00 |                   |
 |  09:15 | Naja, Ida Marie, Astrid               |
@@ -25,9 +25,9 @@ Tænk over:
 
 | Tider  | Elev / elevgruppe |
 |--------|-------------------|
-|  10:30 |                   |
+|  10:30 |   Joakim og Rawan               |
 |  10:45 |                   |
-|  11:00 |                   |
+|  11:00 |   Salma og Sofie                |
 |  11:15 |                   |
 |  11:30 |                   |
 |  11:45 |                   |
