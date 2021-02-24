@@ -19,7 +19,7 @@ Tænk over:
 |  09:00 |       William, Nikolaj og Tobias            |
 |  09:15 | Naja, Ida Marie, Astrid               |
 |  09:30 |       Cecilie            |
-|  09:45 |                   |
+|  09:45 |  Måske Marcus       |
 
 #### Aleks
 
@@ -30,7 +30,7 @@ Tænk over:
 |  11:00 |   Salma og Sofie                |
 |  11:15 |      Sigurd og Saad             |
 |  11:30 |       Mads            |
-|  11:45 |                   |
+|  11:45 |  Måske Marcus            |
 
 
 ### Mandag d. 1.03.21
