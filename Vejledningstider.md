@@ -40,21 +40,21 @@ Ved denne vejledning skal I have overvejet jeres produkt. Her skulle I gerne bru
 
 | Tider  | Elev / elevgruppe |
 |--------|-------------------|
+|  08:00 |                   |
 |  08:30 |                   |
-|  08:45 |                   |
 |  09:00 |                   |
-|  09:15 |                   |
-|  09:30 |                   |
-|  09:45 |                   |
+|  ----- |                   |
+|  ----- |                   |
+|  12:45 |                   |
 
 #### Aleks
 
 | Tider  | Elev / elevgruppe |
 |--------|-------------------|
+|  10:00 |  Joakim og Rawan                 |
 |  10:30 |                   |
-|  10:45 |                   |
 |  11:00 |                   |
-|  11:15 |                   |
-|  11:30 |                   |
-|  11:45 |                   |
+|  12:00 |                   |
+|  12:30 |                   |
+|  ----- |                   |
 
