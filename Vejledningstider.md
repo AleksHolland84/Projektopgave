@@ -52,9 +52,9 @@ Ved denne vejledning skal I have overvejet jeres produkt. Her skulle I gerne bru
 | Tider  | Elev / elevgruppe |
 |--------|-------------------|
 |  10:00 |  Joakim og Rawan                 |
-|  10:30 |                   |
+|  10:30 |     Marcus              |
 |  11:00 |                   |
-|  12:00 |                   |
+|  12:00 |    Ida Marie, Naja, Astrid               |
 |  12:30 |                   |
 |  ----- |                   |
 
