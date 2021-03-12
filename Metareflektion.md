@@ -11,7 +11,7 @@ Hensigten er, at visiualisere jeres "lærings-forløb" og gøre det tydeligt for
 
 ## I skal
 - opret et Word document
-- opsæt det som følgende
+- opsæt det som følgende ![/images/Metareflektion.png]
 - udfylde det
 - aflevere det 
 
